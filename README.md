@@ -63,11 +63,14 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+  - fixed syntax error
 
 - Update the number of likes for a toy
 
   - How I debugged:
+  - Render json in the controller action update
 
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  - Add delete action in route.rb file
